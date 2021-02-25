@@ -26,10 +26,10 @@
 ```
 Note : Use python 3.7+
 
-$ git clone https://github.com/devanshbatham/ParamSpider
-$ cd ParamSpider
-$ pip3 install -r requirements.txt
-$ python3 paramspider.py --domain hackerone.com
+git clone https://github.com/devanshbatham/ParamSpider
+cd ParamSpider
+pip3 install -r requirements.txt
+python3 paramspider.py --domain hackerone.com
 ```
 
   
